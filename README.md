@@ -10,5 +10,8 @@ In this Capston Project we will use Deep Q-Learning with Experience Replay to tr
 - We will use several modules from the tensorflow.keras framework for building deep learning models.
 - utils is a module that contains helper functions for this assignment. You do not need to modify the code in this file.
 
+## Source
+Source file is available in the files section or can be accessed [here](https://github.com/Toqeer-Ahmad/Lunar-Lander/blob/main/Lunar-Lander.ipynb)
+
 ## Outcome
 Successful use of Deep Q-Learning with Experience Replay to train an agent to land a lunar lander safely on a landing pad on the surface of the moon. For more informationm, please explore the notbook file.
